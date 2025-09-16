@@ -1,4 +1,4 @@
-#poner solo 2 decimales 
+
 matriz = [
     [0, 0, 0],
     [0, 1, 1],
@@ -41,3 +41,4 @@ while not aprendido:
         aprendido = True
     else:
         epoca += 1
+
